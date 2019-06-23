@@ -620,7 +620,6 @@ iframe {
 }
 
 .navbar-scroll {
-    /* background-color: rgba(32, 26, 43, 0.93); */
     background-color: rgba(2, 8, 39, 1);
     margin-top: 0;
 }
@@ -658,28 +657,6 @@ iframe {
     background-color: transparent;
 }
 
-/* .dropdown-menu {
-    background-color: rgba(45, 38, 60, 0.90);
-    border-radius: 0;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    padding: 11px 0;
-}
-
-.dropdown-menu > li > a {
-    padding: 4px 20px;
-    font-size: 14px;
-    font-family: 'Josefin Sans';
-    text-transform: uppercase;
-    color: #fff;
-}
-
-.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
-    color: #d0d0d0;
-    text-decoration: none;
-    background-color: transparent;
-} */
-
 /* =Modals
 -------------------------------------------------------------- */
 .modal-body {
@@ -703,17 +680,6 @@ iframe {
     font-weight: 700;
     font-size: 24px;
 }
-
-/* .modal-header {
-    padding: 30px;
-    background-color: #FFF;
-    border-radius: 5px;
-    border-bottom: none;
-} */
-
-/* .modal-header-container {
-    padding: 0 6px 0 6px;
-} */
 
 .close {
     font-size: 36px;
@@ -1170,7 +1136,6 @@ ul.list-arrow-2-color li:before {
 -------------------------------------------------------------- */
 footer {
     font-family: 'Josefin Sans';
-    /* background-color: rgba(32, 26, 43, 0.95); */
     background-color: rgba(2, 8, 39, 1);
     padding: 40px 0;
     color: #fff;
