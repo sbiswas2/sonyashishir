@@ -56,15 +56,15 @@ a.underline-link {
 }
 
 a.color-link {
-    color: #c80032;
+    color: #b4143c;
 }
 
 a.color-link:focus, a.color-link:hover {
-    color: #c80032;
+    color: #b4143c;
 }
 
 a:focus, a:hover {
-    color: #c80032;
+    color: #b4143c;
 }
 
 a:focus {
@@ -83,7 +83,7 @@ iframe {
     font-family: 'Josefin Sans';
     font-weight: 700;
     text-transform: uppercase;
-    color: #c80032;
+    color: #b4143c;
 }
 
 .text-heavy {
@@ -91,7 +91,7 @@ iframe {
 }
 
 .text-color {
-    color: #c80032;
+    color: #b4143c;
 }
 
 .text-white {
@@ -112,7 +112,7 @@ iframe {
     font-family: 'Josefin Sans';
     font-weight: 700;
     text-transform: uppercase;
-    color: #c80032;
+    color: #b4143c;
     margin: 0;
 }
 
@@ -164,7 +164,7 @@ iframe {
     width: 45px;
     height: 2px;
     margin: 10px auto 10px auto;
-    background-color: #c80032;
+    background-color: #b4143c;
 }
 
 .sectionMargin {
@@ -264,7 +264,7 @@ iframe {
 .animate-example-box {
     width: 100%;
     height: 80px;
-    background-color: #c80032;
+    background-color: #b4143c;
 }
 
 /* =Jumbotron
@@ -302,7 +302,7 @@ iframe {
 .jumbotron .h1, .jumbotron h1 {
     font-size: 36px;
     border-bottom: 2px solid;
-    color: #c80032;
+    color: #b4143c;
     display: inline-block;
     margin-bottom: 20px;
     margin-top: 0;
@@ -359,7 +359,7 @@ iframe {
 }
 
 .scroll-down .btn:hover {
-    color: #c80032;
+    color: #b4143c;
 }
 
 .ticker {
@@ -389,7 +389,7 @@ iframe {
 
 #clock b {
     font-family: 'Josefin Sans';
-    color: #c80032;
+    color: #b4143c;
     font-weight: 300;
     display: block;
     font-size: 56px;
@@ -512,8 +512,8 @@ iframe {
 
 .btn-primary {
     color: #fff;
-    background-color: #c80032;
-    border-color: #c80032;
+    background-color: #b4143c;
+    border-color: #b4143c;
 }
 
 .btn-primary:hover {
@@ -605,7 +605,7 @@ iframe {
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
-    color: #c80032;
+    color: #b4143c;
     background-color: transparent;
 }
 
@@ -626,7 +626,7 @@ iframe {
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
-    color: #c80032;
+    color: #b4143c;
     background-color: transparent;
 }
 
@@ -635,17 +635,17 @@ iframe {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #c80032;
+    background-color: #b4143c;
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #c80032;
+    border-color: #b4143c;
 }
 
 .navbar-toggle {
     margin-top: 23px;
     margin-bottom: 23px;
-    background-color: #c80032;
+    background-color: #b4143c;
     border-radius: 0;
 }
 
@@ -654,7 +654,7 @@ iframe {
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
-    color: #c80032;
+    color: #b4143c;
     background-color: transparent;
 }
 
@@ -774,7 +774,7 @@ label {
     font-family: 'Josefin Sans';
     font-weight: 700;
     font-size: 18px;
-    color: #c80032;
+    color: #b4143c;
 }
 
 /* =Alerts
@@ -833,8 +833,8 @@ label {
 
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover {
     color: #fff;
-    background-color: #c80032;
-    border: 1px solid #c80032;
+    background-color: #b4143c;
+    border: 1px solid #b4143c;
     border-bottom: 2px solid #a00028;
 }
 
@@ -861,7 +861,7 @@ label {
 
 .tab-pane::first-letter { 
     font-size: 120%;
-    color: #c80032;
+    color: #b4143c;
     font-family: "Montserrat",sans-serif;
     font-weight: 700;
 }
@@ -878,13 +878,13 @@ label {
 }
 
 .panel-default {
-    border-color: #c80032;
+    border-color: #b4143c;
 }
 
 .panel-default>.panel-heading {
     color: #fff;
-    background-color: #c80032;
-    border-color: #c80032;
+    background-color: #b4143c;
+    border-color: #b4143c;
 }
 
 .panel-heading {
@@ -1037,7 +1037,7 @@ ul.list-arrow li:before {
 }
 
 ul.list-arrow-color li:before {
-    color: #c80032;
+    color: #b4143c;
 }
 
 ul.list-arrow-2 { list-style-type:none; }
@@ -1050,7 +1050,7 @@ ul.list-arrow-2 li:before {
 }
 
 ul.list-arrow-2-color li:before {
-    color: #c80032;
+    color: #b4143c;
 }
 
 /* =Progress Bars
@@ -1067,7 +1067,7 @@ ul.list-arrow-2-color li:before {
 
 .progress-bar {
     font-size: 18px;
-    background-color: #c80032;
+    background-color: #b4143c;
     box-shadow: none;
     border-radius: 4px;
     line-height: 77px;
@@ -1129,7 +1129,7 @@ ul.list-arrow-2-color li:before {
     position: relative;
     margin: 0 auto;
     margin-bottom: 20px;
-    background-color: #c80032;
+    background-color: #b4143c;
     width: 110px;
     height: 110px;
     border-radius: 50%;
@@ -1155,6 +1155,10 @@ ul.list-arrow-2-color li:before {
     color: #fff;
 }
 
+.registry-items {
+    text-align: center;
+}
+
 .registry-logo {
     background: #f5f5f5;
     width: 475px;
@@ -1174,7 +1178,7 @@ footer {
 
 .footer-brand {
     font-size: 24px;
-    color: #c80032;
+    color: #b4143c;
     display: inline-block;
     line-height: 20px;
 }
