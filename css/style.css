@@ -305,11 +305,7 @@ iframe {
 
 .jumbotron .h1, .jumbotron h1 {
     font-size: 36px;
-    border-bottom: 2px solid;
     color: #b4143c;
-    display: inline-block;
-    margin-bottom: 20px;
-    margin-top: 0;
 }
 
 .jumbotron-subtitle {
