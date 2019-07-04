@@ -29,6 +29,11 @@ var x = setInterval(function() {
         document.getElementById("minutestimer").innerHTML = minutes;
         document.getElementById("hourstimer").innerHTML = hours;
         document.getElementById("secondstimer").innerHTML = seconds;
+        if (months === 1) {
+          document.getElementById("monthText").innerHTML = "Month until Marriage";
+        } else {
+          document.getElementById("monthText").innerHTML = "Months until Marriage";
+        }
     } else {
         clearInterval(x);
         document.getElementById("monthstimer").innerHTML = "0";
@@ -36,6 +41,7 @@ var x = setInterval(function() {
         document.getElementById("minutestimer").innerHTML = "0";
         document.getElementById("hourstimer").innerHTML = "0";
         document.getElementById("secondstimer").innerHTML = "0";
+        document.getElementById("monthText").innerHTML = "Months until Marriage";
   }
 }, 1000);
 

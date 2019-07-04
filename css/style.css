@@ -35,7 +35,7 @@ Author:Denis Samardjiev
 body {
     font-family: 'Playfair Display';
     font-size: 18px;
-    color: #b2b2b2;
+    color: #808B96;
     height: 100%;
 }
 
@@ -44,7 +44,7 @@ html {
 }
 
 a {
-    color: #b5b5b5;
+    color: #808B96;
     -webkit-transition: all 0.5s ease 0s;
     -moz-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
@@ -99,6 +99,10 @@ iframe {
 }
 
 .text-light {
+    color: #808B96;
+}
+
+.text-lighter {
     color: #ccc;
 }
 
@@ -125,7 +129,7 @@ iframe {
 
 .section-subtitle-2 {
     font-family: 'Playfair Display';
-    color: #989898;
+    color: #808B96;
     margin: 0;
 }
 
@@ -134,7 +138,7 @@ iframe {
     margin: 25px 0 35px 0;
     width: 45px;
     height: 1px;
-    background-color: #dadada;
+    background-color: #808B96;
 }
 
 .section-divider-center {
@@ -256,8 +260,8 @@ iframe {
 .section-padding { padding: 150px 0; }
 .section-padding-top { padding-top: 150px; }
 .section-padding-bottom { padding-bottom: 150px; }
-.section-border-top { border-top: 1px solid #e2e2e2; }
-.section-border-bottom { border-bottom: 1px solid #e2e2e2; }
+.section-border-top { border-top: 1px solid #808B96; }
+.section-border-bottom { border-bottom: 1px solid #808B96; }
 
 /* =Animate Examples
 -------------------------------------------------------------- */
@@ -420,7 +424,7 @@ iframe {
 .carousel,
 .carousel .item {
     height: 100%;
-    background: #272727;
+    background: rgba(2, 8, 39, 1);
 }
 
 .carousel-inner {
